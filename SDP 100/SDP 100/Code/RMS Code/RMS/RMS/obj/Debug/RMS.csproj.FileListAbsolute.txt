@@ -1,0 +1,2 @@
+D:\Bangladesh University of Business and Technology (BUBT)\3rd Semester\CSE 100 (Software Development Program)\Restaurant Management System\Code\RMS Code\RMS\RMS\obj\Debug\RMS.csprojAssemblyReference.cache
+D:\Bangladesh University of Business and Technology (BUBT)\3rd Semester\CSE 100 (Software Development Program)\Restaurant Management System\Code\RMS Code\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
